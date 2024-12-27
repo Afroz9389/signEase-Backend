@@ -1,2 +1,2 @@
 frontend link
-https://github.com/vedant-bahadure2003/signEase-Frontend
+https://github.com/Afroz9389/signEase-Frontend
